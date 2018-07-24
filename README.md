@@ -3,6 +3,8 @@
 ## Youtube video
 
 https://www.youtube.com/watch?v=15X0qFtBqiQ - Functional Programming with Java 8 by Venkat Subramaniam
+I'm at 33:01
+
 
 ## Notes
 
