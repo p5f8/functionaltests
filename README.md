@@ -19,5 +19,7 @@ https://www.youtube.com/watch?v=15X0qFtBqiQ - Functional Programming with Java 8
   
   1. Does not change anything    
   2. Does not depend on anything that changes  
-  3. 
+
+- State transformation instead of state mutation  
+
   
